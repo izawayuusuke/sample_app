@@ -33,4 +33,4 @@ class TodolistsController < ApplicationController
   	params.require(:list).permit(:title, :body, :image)
   end
 
-end
+enda
